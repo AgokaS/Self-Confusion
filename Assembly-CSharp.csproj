@@ -60,8 +60,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Plaer\MouseGamera.cs" />
+    <Compile Include="Assets\Scripts\Plaer\MouseRotate.cs" />
     <Compile Include="Assets\Scripts\Plaer\PlaerController.cs" />
+    <Compile Include="Assets\Scripts\Plaer\SimpleCamera.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Self Confusion/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
